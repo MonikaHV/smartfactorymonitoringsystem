@@ -6,8 +6,8 @@
 //thingsboard
 #define TB_SERVER      "mqtt.thingsboard.cloud"
 #define TB_PORT        1883
-#define ACCESS_TOKEN   "rm8PtR8WOhqJvJR0Vqvf"
-#define CLIENT_ID      "node_2_warehouse"
+#define ACCESS_TOKEN   "your access token"
+#define CLIENT_ID      "your client id"
 
 //MQTT topic
 #define TOPIC_TELEMETRY   "v1/devices/me/telemetry"
